@@ -1,7 +1,7 @@
 # Recriando_Interface_Netflix
 Projeto proposto pelo Bootcamp Inter Front end Developer. O objetivo aqui foi recriar a interface do Netflix.
 
-Para o desenvolvimento desse projeto inicial, acompanhei o passo a passo Nesse projeto proposto pelo Bootcamp Inter Front end Developer. O objetivo aqui foi recriar a interface do Netflix.
+Para o desenvolvimento desse projeto inicial, acompanhei o passo do especialista Felipe Aguiar.
 
 Foi utilizado as tecnologias HTML5, CSS3 e JavaScript.
 
